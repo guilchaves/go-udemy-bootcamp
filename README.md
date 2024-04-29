@@ -2,7 +2,7 @@
 
 Esse repositório contém os exercícios e projetos do curso [Aprenda Golang do Zero](https://www.udemy.com/course/aprenda-golang-do-zero-desenvolva-uma-aplicacao-completa).
 
-###### Ementa
+##### Ementa
 
 - Desenvolver uma rede social utilizando a linguagem Go
 - Trabalhar de forma prática e eficiente com concorrência
@@ -11,7 +11,7 @@ Esse repositório contém os exercícios e projetos do curso [Aprenda Golang do 
 - Construir uma aplicação de linha de comando
 - Todos os fundamentos da linguagem
 
-###### Conteúdo
+##### Conteúdo
 
 - Fundamentos da linguagem
 - Mini aplicação de Linha de Comando
