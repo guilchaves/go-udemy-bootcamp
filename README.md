@@ -2,6 +2,11 @@
 
 Esse repositório contém os exercícios e projetos do curso [Aprenda Golang do Zero](https://www.udemy.com/course/aprenda-golang-do-zero-desenvolva-uma-aplicacao-completa).
 
+##### Aplicações
+✅ - [Mini aplicação de linha de comando](https://github.com/guilchaves/go-udemy-bootcamp/tree/main/2-CLI-App)<br>
+☐ - API _DevBook_<br>
+☐ - Aplicação Web _DevBook_<br>
+
 ##### Ementa
 
 - Desenvolver uma rede social utilizando a linguagem Go
